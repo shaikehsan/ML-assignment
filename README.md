@@ -1,9 +1,9 @@
 # Breast Tumour Classifier Lab
 
-Machine Learning - Assignment 2 (M.Tech AIML, BITS WILP)
+Machine Learning - Assignment 2 (M.Tech AIML, BITS WILP) 
 
-- **GitHub repository:** `<PASTE YOUR GITHUB REPO LINK HERE>`
-- **Live Streamlit app:** `<PASTE YOUR STREAMLIT COMMUNITY CLOUD LINK HERE>`
+- **GitHub repository:** https://github.com/shaikehsan/ML-assignment.git
+- **Live Streamlit app:** https://bc-classifier-assignment.streamlit.app/
 
 ## a. Problem statement
 
